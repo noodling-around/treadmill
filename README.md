@@ -1,4 +1,4 @@
-# Pod Górkę
+# Treadmill App
 
 Trening marszowy na bieżni: wznos, prędkość i czas dobierane do poziomu, ograniczeń i czasu, jaki masz. Bez biegania.
 
@@ -13,13 +13,6 @@ Aplikacja to jeden plik `index.html`. Działa w przeglądarce telefonu, niczego 
 - ocena wysiłku i bólu po treningu, od której zależy progresja
 - challenge 30 dni z testem na początku i na końcu
 - statystyki, historia, tryb dzień/noc
-
-## Publikacja na GitHub Pages
-
-1. Utwórz nowe repozytorium na GitHubie (np. `pod-gorke`).
-2. Wrzuć do niego `index.html` (i ten plik README).
-3. Wejdź w **Settings → Pages**, w sekcji *Build and deployment* wybierz *Deploy from a branch*, gałąź `main`, folder `/ (root)`, i zapisz.
-4. Po minucie lub dwóch aplikacja będzie pod adresem `https://<twoja-nazwa>.github.io/pod-gorke/`.
 
 Na telefonie można ją dodać do ekranu głównego („Dodaj do ekranu głównego” w menu przeglądarki), wtedy otwiera się jak zwykła aplikacja.
 
